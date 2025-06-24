@@ -51,10 +51,13 @@ The best model, **MediumNet-fast**, was trained with a learning rate found using
 
 ## 👨‍🎓 Author & Credits
 
-- **Project by**: Kasra Ghasemipoo  
-- **Instructor**: Prof. Nicolò Cesa-Bianchi  
-- **University**: Università degli Studi di Milano  
-- **Academic Year**: 2024/25
+**Project by**: Kasra Ghasemipoo  
+**Instructor**: Prof. Nicolò Cesa-Bianchi  
+**University**: Università degli Studi di Milano  
+**Academic Year**: 2024/25  
+
+📧 Contact:  
+- kghasemipoo@gmail.com  
+- kasra.ghasemipoo@studenti.unimi.it
 
 ---
-
