@@ -1,0 +1,7 @@
+tensorflow
+keras-tuner
+matplotlib
+seaborn
+numpy
+scikit-learn
+jupyter
