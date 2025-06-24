@@ -53,6 +53,10 @@ The best model, **MediumNet-fast**, was trained with a learning rate found using
 
 **Project by**: Kasra Ghasemipoo  
 **Instructor**: Prof. Nicolò Cesa-Bianchi  
+**Teaching Assistants**:  
+- Luigi Foscari — [luigi.foscari@unimi.it](mailto:luigi.foscari@unimi.it)  
+- Emmanuel Esposito — [emmanuel.esposito@unimi.it](mailto:emmanuel.esposito@unimi.it)  
+
 **University**: Università degli Studi di Milano  
 **Academic Year**: 2024/25  
 
